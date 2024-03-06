@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Csiliceo84
+- 👀 I’m interested in pentesting
+- 🌱 I’m currently learning Linux and python
+- ⚡ Fun fact: I used to train dolpins 🐬🐬
